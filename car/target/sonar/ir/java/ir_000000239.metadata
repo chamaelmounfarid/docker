@@ -1,4 +1,0 @@
-com.example.car.CarApplication#main([Ljava/lang/String;)V
-false
-1af595071e220e9969d85f999d2fc23c
-org.springframework.boot.SpringApplication#run(Ljava/lang/Class;[Ljava/lang/String;)Lorg/springframework/context/ConfigurableApplicationContext;

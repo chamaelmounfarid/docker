@@ -1,7 +1,0 @@
-organization=yahyaagbi-1
-projectKey=yahyaagbi-1_carrest
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.58807
-dashboardUrl=https://sonarcloud.io/dashboard?id=yahyaagbi-1_carrest
-ceTaskId=AZRq7VhW3NU7KFhDNelJ
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZRq7VhW3NU7KFhDNelJ

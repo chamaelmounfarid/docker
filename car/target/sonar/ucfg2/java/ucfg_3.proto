@@ -1,43 +1,0 @@
-
-4__sonar_lambda_0$com.example.car.services.CarServiceª
-ŸC:/Users/asus/OneDrive - Ecole Marocaine des Sciences de l'IngÃ©nieur/Bureau/ConsulRestTemplate-main/car/src/main/java/com/example/car/services/CarService.java! (L"startingBlock*ü
-startingBlock! (L£
- 
-
-__unknown_file (,
-clients!com.example.car.entities.Client[]"__id*P
-
-__unknown_file (4*2%
-#com.example.car.services.CarService"	
-clientsµ
-²
-
-__unknown_file (6
-CarService.this#com.example.car.services.CarService"__id*X
-
-__unknown_file (<*:%
-#com.example.car.services.CarService"
-CarService.this*
-1*
-1. (>¹
-¶
-. (L(
-%9"com.example.car.models.CarResponse"šcom.example.car.services.CarService#mapToCarResponse(Lcom/example/car/entities/Car;[Lcom/example/car/entities/Client;)Lcom/example/car/models/CarResponse;*T
-
-__unknown_file (8
-6
-CarService.this#com.example.car.services.CarService*A
-
-__unknown_file (%
-#
-carcom.example.car.entities.Car*J
-
-__unknown_file (.
-,
-clients!com.example.car.entities.Client[]"6
-. (L*
-(
-%9"com.example.car.models.CarResponse:/
-" ()#
-carcom.example.car.entities.CarB
-java.util.function.Function
