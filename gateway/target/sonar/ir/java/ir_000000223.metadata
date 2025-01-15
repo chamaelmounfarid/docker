@@ -1,0 +1,5 @@
+com.fateway.gateway.GatewayApplication#routesDynamic(Lorg/springframework/cloud/client/discovery/ReactiveDiscoveryClient;Lorg/springframework/cloud/gateway/discovery/DiscoveryLocatorProperties;)Lorg/springframework/cloud/gateway/discovery/DiscoveryClientRouteDefinitionLocator;
+false
+46ab704f30ad0846bf118fb8c4c751d4
+org.springframework.cloud.gateway.discovery.DiscoveryClientRouteDefinitionLocator#<init>(Lorg/springframework/cloud/client/discovery/ReactiveDiscoveryClient;Lorg/springframework/cloud/gateway/discovery/DiscoveryLocatorProperties;)V
+org.springframework.cloud.gateway.discovery.DiscoveryClientRouteDefinitionLocator#instance-init#

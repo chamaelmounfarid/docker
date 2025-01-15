@@ -1,0 +1,5 @@
+com.example.client.controllers.ClientController#findById(Ljava/lang/Long;)Lcom/example/client/entities/Client;
+false
+184e3cc89746f4bd7b3bc5063fd510b1
+==
+findById com.example.client.services.ClientService#findById(Ljava/lang/Long;)Lcom/example/client/entities/Client;

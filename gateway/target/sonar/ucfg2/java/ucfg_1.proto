@@ -1,0 +1,67 @@
+
+•com.fateway.gateway.GatewayApplication#routesDynamic(Lorg/springframework/cloud/client/discovery/ReactiveDiscoveryClient;Lorg/springframework/cloud/gateway/discovery/DiscoveryLocatorProperties;)Lorg/springframework/cloud/gateway/discovery/DiscoveryClientRouteDefinitionLocator;±
+¦C:/Users/asus/OneDrive - Ecole Marocaine des Sciences de l'IngÃ©nieur/Bureau/ConsulRestTemplate-main/gateway/src/main/java/com/fateway/gateway/GatewayApplication.java* (7"startingBlock*Ç
+startingBlock7 (Bé
+æ
+ (	
+%2"
+__annotate*K
+
+__unknown_file (/-
++org.springframework.context.annotation.Bean*{
+
+__unknown_file (_
+]
+reactiveDiscoveryClientBorg.springframework.cloud.client.discovery.ReactiveDiscoveryClientž
+›
+$ (;]
+reactiveDiscoveryClientBorg.springframework.cloud.client.discovery.ReactiveDiscoveryClient"__annotation*"
+
+__unknown_file (
+
+%2ñ
+î
+ (	
+%3"
+__annotate*K
+
+__unknown_file (/-
++org.springframework.context.annotation.Bean*‚
+
+__unknown_file (f
+d
+discoveryLocatorPropertiesForg.springframework.cloud.gateway.discovery.DiscoveryLocatorProperties¥
+¢
+' (Ad
+discoveryLocatorPropertiesForg.springframework.cloud.gateway.discovery.DiscoveryLocatorProperties"__annotation*"
+
+__unknown_file (
+
+%3*
+1*©
+19 (P¹¶
+ (8W
+%0Qorg.springframework.cloud.gateway.discovery.DiscoveryClientRouteDefinitionLocator"Qorg.springframework.cloud.gateway.discovery.DiscoveryClientRouteDefinitionLocatorö
+ó
+ (l
+%1"çorg.springframework.cloud.gateway.discovery.DiscoveryClientRouteDefinitionLocator#<init>(Lorg/springframework/cloud/client/discovery/ReactiveDiscoveryClient;Lorg/springframework/cloud/gateway/discovery/DiscoveryLocatorProperties;)V*u
+
+__unknown_file (Y
+W
+%0Qorg.springframework.cloud.gateway.discovery.DiscoveryClientRouteDefinitionLocator*{
+
+__unknown_file (_
+]
+reactiveDiscoveryClientBorg.springframework.cloud.client.discovery.ReactiveDiscoveryClient*‚
+
+__unknown_file (f
+d
+discoveryLocatorPropertiesForg.springframework.cloud.gateway.discovery.DiscoveryLocatorProperties"e
+ (mY
+W
+%0Qorg.springframework.cloud.gateway.discovery.DiscoveryClientRouteDefinitionLocator:i
+ (<]
+reactiveDiscoveryClientBorg.springframework.cloud.client.discovery.ReactiveDiscoveryClient:p
+ (Ad
+discoveryLocatorPropertiesForg.springframework.cloud.gateway.discovery.DiscoveryLocatorPropertiesB*(
+&com.fateway.gateway.GatewayApplication

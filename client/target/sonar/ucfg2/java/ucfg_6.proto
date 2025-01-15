@@ -1,0 +1,21 @@
+
+Ccom.example.client.services.ClientService#findAll()Ljava/util/List;≥
+®C:/Users/asus/OneDrive - Ecole Marocaine des Sciences de l'Ing√©nieur/Bureau/ConsulRestTemplate-main/client/src/main/java/com/example/client/services/ClientService.java ("1*π
+1 (¨
+©
+ (6
+%00com.example.client.repositories.ClientRepository"__id*_
+
+__unknown_file (C*A+
+)com.example.client.services.ClientService"
+clientRepository÷”
+ ()
+%1java.util.List"Porg.springframework.data.repository.ListCrudRepository#findAll()Ljava/util/List;*T
+
+__unknown_file (8
+6
+%00com.example.client.repositories.ClientRepository2	findAll()""
+ (*
+
+%1java.util.ListB-+
+)com.example.client.services.ClientServiceH

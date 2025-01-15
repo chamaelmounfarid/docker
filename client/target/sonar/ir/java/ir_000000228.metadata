@@ -1,0 +1,5 @@
+com.example.client.controllers.ClientController#save(Lcom/example/client/entities/Client;)V
+false
+b5a367211eb245632f84e83d4e5102c8
+==
+addClient com.example.client.services.ClientService#addClient(Lcom/example/client/entities/Client;)V

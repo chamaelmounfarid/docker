@@ -1,0 +1,5 @@
+com.example.client.services.ClientService#findAll()Ljava/util/List;
+false
+600f879fb090020f13eb344dadb70a92
+==
+findAll org.springframework.data.repository.ListCrudRepository#findAll()Ljava/util/List;

@@ -1,0 +1,21 @@
+
+Icom.example.client.controllers.ClientController#findAll()Ljava/util/List;¹
+®C:/Users/asus/OneDrive - Ecole Marocaine des Sciences de l'IngÃ©nieur/Bureau/ConsulRestTemplate-main/client/src/main/java/com/example/client/controllers/ClientController.java ("1*›
+1 (¢
+Ÿ
+ (/
+%0)com.example.client.services.ClientService"__id*\
+
+__unknown_file (@*>1
+/com.example.client.controllers.ClientController"	
+serviceÂ¿
+ ( 
+%1java.util.List"Ccom.example.client.services.ClientService#findAll()Ljava/util/List;*M
+
+__unknown_file (1
+/
+%0)com.example.client.services.ClientService2	findAll()""
+ (!
+
+%1java.util.ListB31
+/com.example.client.controllers.ClientControllerH

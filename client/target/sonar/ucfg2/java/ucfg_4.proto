@@ -1,0 +1,27 @@
+
+ncom.example.client.controllers.ClientController#findById(Ljava/lang/Long;)Lcom/example/client/entities/Client;¹
+®C:/Users/asus/OneDrive - Ecole Marocaine des Sciences de l'IngÃ©nieur/Bureau/ConsulRestTemplate-main/client/src/main/java/com/example/client/controllers/ClientController.java ("1*­
+1 (¢
+Ÿ
+ (/
+%0)com.example.client.services.ClientService"__id*\
+
+__unknown_file (@*>1
+/com.example.client.controllers.ClientController"	
+serviceÀ½
+ (#(
+%1"com.example.client.entities.Client"hcom.example.client.services.ClientService#findById(Ljava/lang/Long;)Lcom/example/client/entities/Client;*M
+
+__unknown_file (1
+/
+%0)com.example.client.services.ClientService*2
+
+__unknown_file (
+
+idjava.lang.Long2findById(Ljava/lang/Long;)"6
+ ($*
+(
+%1"com.example.client.entities.Client: 
+ (0
+idjava.lang.LongB31
+/com.example.client.controllers.ClientControllerH

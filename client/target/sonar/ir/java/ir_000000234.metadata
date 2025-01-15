@@ -1,0 +1,6 @@
+com.example.client.services.ClientService#findById(Ljava/lang/Long;)Lcom/example/client/entities/Client;
+false
+17233927902570a503e2669d2e5f4036
+java.util.Optional#orElseThrow(Ljava/util/function/Supplier;)Ljava/lang/Object;
+==
+findById org.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;

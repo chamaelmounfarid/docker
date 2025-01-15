@@ -1,0 +1,9 @@
+com.example.car.services.CarService#mapToCarResponse(Lcom/example/car/entities/Car;[Lcom/example/car/entities/Client;)Lcom/example/car/models/CarResponse;
+false
+2436a9b6632ecf68cd3fb8a7e1e67699
+java.util.Arrays#stream([Ljava/lang/Object;)Ljava/util/stream/Stream;
+java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;
+==
+!unknownMethod! !unknownMethod!
+filter java.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;
+findFirst java.util.stream.Stream#findFirst()Ljava/util/Optional;

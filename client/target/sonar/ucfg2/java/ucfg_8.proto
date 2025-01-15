@@ -1,0 +1,43 @@
+
+hcom.example.client.services.ClientService#findById(Ljava/lang/Long;)Lcom/example/client/entities/Client;³
+¨C:/Users/asus/OneDrive - Ecole Marocaine des Sciences de l'IngÃ©nieur/Bureau/ConsulRestTemplate-main/client/src/main/java/com/example/client/services/ClientService.java ("1*ý
+1 (¬
+©
+ (6
+%00com.example.client.repositories.ClientRepository"__id*_
+
+__unknown_file (C*A+
+)com.example.client.services.ClientService"
+clientRepository´±
+ (,
+%1java.util.Optional"corg.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;*T
+
+__unknown_file (8
+6
+%00com.example.client.repositories.ClientRepository*2
+
+__unknown_file (
+
+idjava.lang.Long2findById(Ljava/lang/Object;)Ÿ
+œ
+9 (a!
+%2java.util.function.Supplier"__declareFunction*Z
+
+__unknown_file (><
+:__sonar_lambda_1$com.example.client.services.ClientService­ª
+ (b(
+%5"com.example.client.entities.Client"Ojava.util.Optional#orElseThrow(Ljava/util/function/Supplier;)Ljava/lang/Object;*6
+
+__unknown_file (
+
+%1java.util.Optional*?
+
+__unknown_file (#
+!
+%2java.util.function.Supplier2*orElseThrow(Ljava/util/function/Supplier;)"6
+ (c*
+(
+%5"com.example.client.entities.Client: 
+ ("
+idjava.lang.LongB-+
+)com.example.client.services.ClientServiceH

@@ -1,0 +1,47 @@
+
+™com.example.client.ClientApplication#initializeH2Database(Lcom/example/client/repositories/ClientRepository;)Lorg/springframework/boot/CommandLineRunner;®
+£C:/Users/asus/OneDrive - Ecole Marocaine des Sciences de l'IngÃ©nieur/Bureau/ConsulRestTemplate-main/client/src/main/java/com/example/client/ClientApplication.java (*"startingBlock*û
+startingBlock* (MÑ
+Î
+ (	
+%10"
+__annotate*K
+
+__unknown_file (/-
++org.springframework.context.annotation.Bean*b
+
+__unknown_file (F
+D
+clientRepository0com.example.client.repositories.ClientRepository†
+ƒ
+< (LD
+clientRepository0com.example.client.repositories.ClientRepository"__annotation*#
+
+__unknown_file (
+
+%10*
+1*Ë
+1 (	©
+¦
+ (	0
+%0*org.springframework.boot.CommandLineRunner"__declareFunction*U
+
+__unknown_file (97
+5__sonar_lambda_0$com.example.client.ClientApplicationÏ
+Ì
+
+__unknown_file (F
+0
+%0*org.springframework.boot.CommandLineRunner"
+clientRepository"__id*b
+
+__unknown_file (F
+D
+clientRepository0com.example.client.repositories.ClientRepository">
+ (
+2
+0
+%0*org.springframework.boot.CommandLineRunner:P
++ (LD
+clientRepository0com.example.client.repositories.ClientRepositoryB(&
+$com.example.client.ClientApplication
